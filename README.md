@@ -25,6 +25,17 @@ Excel, Tableau, SQL
 Key insights:
 I evaluated brand sourcing decisions using a rolling 12-month performance window while monitoring recent 3-month trends.
 
+1. We saw a huge 510% month over month growth in revenue this Month (July) Since store was open, we see steady growth in both revenue and profit based
+   on running total of revenue and profit. RFYNE is doing well with a huge spike in sales volume this month.
+   
+2. Revenue and Profit for France and Italy have dropped significantly comparing to a year ago. However, profit and ROI remain similar. Meaning sourcing from
+   Italy and France don't affect the profitability and efficiency of the business.
+
+3. This month's top performing brands by profit in each category are Fendi, Vivienne Westwood, Miss sixty and Longchamp. Top performing brands by AOV are
+   Fendi, Jean Paul Gaultier, Furla and Diesel. Top performers by ROI are Vivienne Westwood, Longchamp, Prada and miss sixty.
+
+   
+   
 5. Based on Profit margin vs sell-through rate matrix: we should prioritize buying brands like Jean Paul Gaultier, D&G and Vivienne Westwood.
    They obtain high profit margin as well as high sell through rate. We should avoid buying brands like Fornarina and Furla as it has low sell through rate and low margin.
 
