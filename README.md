@@ -34,10 +34,18 @@ I evaluated brand sourcing decisions using a rolling 12-month performance window
 3. This month's top performing brands by profit in each category are Fendi, Vivienne Westwood, Miss sixty and Longchamp. Top performing brands by AOV are
    Fendi, Jean Paul Gaultier, Furla and Diesel. Top performers by ROI are Vivienne Westwood, Longchamp, Prada and miss sixty.
 
+4. There are currently 489 items left in the inventory. It's bit concerning as stale inventory takes up to 92% of the entire inventory.
+   Louis Vuitton items seem to move the slowest based off having the lowest sell through rate (59.52%) and the most amount of stale inventory.
+   I've created a breakdown of what the stale items are, so we can work on discounting them, as well as researching why they went stale.
+
+5. By examining profit margin vs sales matrix, we want to prioritize high return and high margin, high margin and low return (hidden gems) work on improving sales.
+   For the low margin and low return brands like Chanel, Dior and Coach, consider slow down on investing as we witnessed negative margin for the past 3 months.
+   For the mid margin and mid return, we shall continue to monitor this matrix as well as increasing investment.
+
+6.
    
-   
-5. Based on Profit margin vs sell-through rate matrix: we should prioritize buying brands like Jean Paul Gaultier, D&G and Vivienne Westwood.
+7. Based on Profit margin vs sell-through rate matrix: we should prioritize buying brands like Jean Paul Gaultier, D&G and Vivienne Westwood.
    They obtain high profit margin as well as high sell through rate. We should avoid buying brands like Fornarina and Furla as it has low sell through rate and low margin.
 
-7.	Screenshot(s)
-8.	Link to Tableau dashboard (if applicable)
+8.	Screenshot(s)
+9.	Link to Tableau dashboard (if applicable)
